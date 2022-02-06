@@ -1,0 +1,19 @@
+.all-expense{
+    display: inline-block;
+    width: 700px;
+    margin-top: 50px;
+    padding: 30px;
+    padding-top: 50px;
+}
+
+.all-expense-form{
+    display: flex;
+    background-color: aqua;
+    flex-flow: column;
+}
+
+.expense-div-title{
+    display: flex;
+    justify-content: space-between;
+}
+

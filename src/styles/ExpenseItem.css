@@ -1,0 +1,30 @@
+.expense-item{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 0.5rem;
+    margin: 1rem 0;
+    background-color: brown;
+    height: 100px;
+}
+
+.expense-date-title{
+    display: flex;
+    align-items: center;
+    padding: 10px;
+}
+
+.expense-title{
+    padding: 10px;
+    font-weight: bold;
+    color: white;
+}
+
+.expense-item-price{
+    display: flex;
+    align-items: center;
+    margin: 5px;
+    padding: 5px;
+    background-color: aliceblue;
+    height: 50px;
+}

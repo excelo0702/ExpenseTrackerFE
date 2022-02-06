@@ -1,0 +1,13 @@
+.expense-item-date{
+    display: inline-block;
+    width: 75px;
+    height: 75px;
+    border: 1px solid #ececec;
+    color: white;
+    border-radius: 13px;
+    padding: 5px;
+    margin: 5px;
+    align-items: center;
+    justify-content: center;
+   
+}
